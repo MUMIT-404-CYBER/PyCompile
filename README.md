@@ -8,6 +8,8 @@
 
 * `pkg install git`
 
+* `pkg install cythonize`
+
 * `pip install requests`
 
 * `pip install cython`

@@ -1,6 +1,6 @@
 <h2>__COMMAND_RUN__🔻 </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Termux+Full+Setup+Tool+Enjoy+Dear%F0%9F%A4%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Compile+Your+Python+File+Enjoy+Dear%F0%9F%A4%9F)](https://git.io/typing-svg)
 
 ```
 pkg update && pkg upgrade
